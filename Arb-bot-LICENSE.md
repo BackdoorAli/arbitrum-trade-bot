@@ -1,0 +1,17 @@
+Copyright (c) 2025 Mira2720
+
+All rights reserved.
+
+This project is provided for educational and informational purposes only.
+
+Permission is granted to view and study the code within this repository. 
+However, reproduction, distribution, modification, reuse, or any form of 
+commercial or non-commercial use of the code or any derivative works is 
+strictly prohibited without explicit written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
