@@ -1,3 +1,7 @@
+## Author
+
+Created by BackdoorAli (https://github.com/BackdoorAli)
+
 # Arbitrum Token Monitoring & Trade Visualisation Bot
 
 > **Disclaimer:** This project is intended strictly for **educational and research purposes**. It is not production-ready and should not be used for real-world trading without significant modification, testing, and risk analysis.
@@ -57,8 +61,3 @@ It is intentionally designed this way to promote ethical usage and educational t
 ## License
 
 This repository is provided as-is with no warranty or guarantee. Use of this code is at your own risk.
-
-## Author
-
-Created by Mira2720  
-GitHub: https://github.com/Mira2720
