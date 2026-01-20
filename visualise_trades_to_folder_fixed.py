@@ -47,4 +47,4 @@ plt.tight_layout()
 plt.savefig(filepath)
 plt.show()
 
-print(f"✅ Chart saved to: {filepath}")
+print(f"Chart saved to: {filepath}")
